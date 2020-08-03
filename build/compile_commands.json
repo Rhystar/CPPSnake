@@ -1,0 +1,27 @@
+[
+{
+  "directory": "C:/Users/PuZY/Desktop/20200425/snake/build",
+  "command": "C:\\PROGRA~1\\mingw64\\bin\\G__~1.EXE    -g   -o CMakeFiles\\Snake.dir\\food.cpp.obj -c C:\\Users\\PuZY\\Desktop\\20200425\\snake\\food.cpp",
+  "file": "C:/Users/PuZY/Desktop/20200425/snake/food.cpp"
+},
+{
+  "directory": "C:/Users/PuZY/Desktop/20200425/snake/build",
+  "command": "C:\\PROGRA~1\\mingw64\\bin\\G__~1.EXE    -g   -o CMakeFiles\\Snake.dir\\main.cpp.obj -c C:\\Users\\PuZY\\Desktop\\20200425\\snake\\main.cpp",
+  "file": "C:/Users/PuZY/Desktop/20200425/snake/main.cpp"
+},
+{
+  "directory": "C:/Users/PuZY/Desktop/20200425/snake/build",
+  "command": "C:\\PROGRA~1\\mingw64\\bin\\G__~1.EXE    -g   -o CMakeFiles\\Snake.dir\\node.cpp.obj -c C:\\Users\\PuZY\\Desktop\\20200425\\snake\\node.cpp",
+  "file": "C:/Users/PuZY/Desktop/20200425/snake/node.cpp"
+},
+{
+  "directory": "C:/Users/PuZY/Desktop/20200425/snake/build",
+  "command": "C:\\PROGRA~1\\mingw64\\bin\\G__~1.EXE    -g   -o CMakeFiles\\Snake.dir\\snake.cpp.obj -c C:\\Users\\PuZY\\Desktop\\20200425\\snake\\snake.cpp",
+  "file": "C:/Users/PuZY/Desktop/20200425/snake/snake.cpp"
+},
+{
+  "directory": "C:/Users/PuZY/Desktop/20200425/snake/build",
+  "command": "C:\\PROGRA~1\\mingw64\\bin\\G__~1.EXE    -g   -o CMakeFiles\\Snake.dir\\ui.cpp.obj -c C:\\Users\\PuZY\\Desktop\\20200425\\snake\\ui.cpp",
+  "file": "C:/Users/PuZY/Desktop/20200425/snake/ui.cpp"
+}
+]

@@ -1,0 +1,46 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/puzey/Desktop/Code/snake/const.h
+
+C:/Users/puzey/Desktop/Code/snake/food.h
+
+C:/Users/puzey/Desktop/Code/snake/main.cpp
+iostream
+-
+cstdlib
+-
+conio.h
+-
+windows.h
+-
+snake.h
+C:/Users/puzey/Desktop/Code/snake/snake.h
+food.h
+C:/Users/puzey/Desktop/Code/snake/food.h
+const.h
+C:/Users/puzey/Desktop/Code/snake/const.h
+ui.h
+C:/Users/puzey/Desktop/Code/snake/ui.h
+
+C:/Users/puzey/Desktop/Code/snake/node.h
+
+C:/Users/puzey/Desktop/Code/snake/snake.h
+vector
+-
+node.h
+C:/Users/puzey/Desktop/Code/snake/node.h
+food.h
+C:/Users/puzey/Desktop/Code/snake/food.h
+
+C:/Users/puzey/Desktop/Code/snake/ui.h
+snake.h
+C:/Users/puzey/Desktop/Code/snake/snake.h
+food.h
+C:/Users/puzey/Desktop/Code/snake/food.h
+
